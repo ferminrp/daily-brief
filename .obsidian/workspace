@@ -109,6 +109,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a913e9e345246419",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
