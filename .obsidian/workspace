@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "238135f925dbbc91",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e311d03c4ba5625",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Companies/Worldcoin.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5006c3e2ba9462c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1bbdf967084b5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf672591bc6c234",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f3469d90ff779181",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eeb91a691d26783e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c93ca0fcdc74d643",
+    "type": "split",
+    "children": [
+      {
+        "id": "710ce7e417f838f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8906dcfd12655d52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Companies/Worldcoin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a98718bad092a0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Companies/Worldcoin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5d81f443590c32f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1e311d03c4ba5625",
+  "lastOpenFiles": [
+    "Companies/Worldcoin.md",
+    "Briefs/2021-10-22.md",
+    "People/Sam Altman.md",
+    "Companies/Mastodon.md",
+    "Companies/Amazon.md",
+    "Companies/Snapchat.md",
+    "People/Donald Trump.md",
+    "Companies/Google.md",
+    "Templates/Daily Template.md"
+  ]
+}
