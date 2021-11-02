@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Companies/Worldcoin.md",
-            "mode": "source"
+            "file": "Briefs/November 2021/2021-11-02.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Companies/Worldcoin.md",
+                "file": "Briefs/November 2021/2021-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Companies/Worldcoin.md",
+                "file": "Briefs/November 2021/2021-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,14 +127,15 @@
   },
   "active": "1e311d03c4ba5625",
   "lastOpenFiles": [
+    "Briefs/November 2021/2021-11-02.md",
+    "Companies/Tesla.md",
+    "Companies/NBC Universal.md",
+    "Companies/Epic Games.md",
+    "Briefs/October 2021/2021-10-22.md",
     "Companies/Worldcoin.md",
-    "Briefs/2021-10-22.md",
     "People/Sam Altman.md",
     "Companies/Mastodon.md",
     "Companies/Amazon.md",
-    "Companies/Snapchat.md",
-    "People/Donald Trump.md",
-    "Companies/Google.md",
-    "Templates/Daily Template.md"
+    "Companies/Snapchat.md"
   ]
 }
